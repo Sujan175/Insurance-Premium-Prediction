@@ -4,5 +4,5 @@ The goal of this project is to give people an estimate of premium amount based o
 ## Webpage link: [link](https://insurance111.herokuapp.com/)
 
 ## Screenshot
-[](image/img.png)
+![](image/img.png)
 
